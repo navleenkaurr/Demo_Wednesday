@@ -17,6 +17,9 @@ public class Git_demo_wed {
        System.out.println("hello");
         System.out.println("i am navleen");
         //git to netbeans: pull to netbeans
+
+        //fetch and merge to netbeans
+        
     }
     
 }
